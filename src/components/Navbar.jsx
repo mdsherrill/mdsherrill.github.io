@@ -8,7 +8,7 @@ const styles = {
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'space-between',
-        padding: '10px 20px',
+        padding: '10px',
         topPadding: '0px',
         backgroundColor: '#333',
         color: '#fff'
